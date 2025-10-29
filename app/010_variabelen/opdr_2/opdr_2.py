@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX1
 
 # Hier komt je code...
 
