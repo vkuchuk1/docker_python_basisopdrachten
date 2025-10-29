@@ -1,6 +1,6 @@
 # Opdracht 3 tekstfuncties
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk   
+# Groep: 4ITX1
 
 # Hier komt je code...
 
