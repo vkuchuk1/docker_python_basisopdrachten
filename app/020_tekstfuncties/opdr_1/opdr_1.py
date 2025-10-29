@@ -16,5 +16,4 @@ voornaam = "albert"
 achternaam = "einstein"
 print(f"{voornaam.title()} {achternaam.title()} zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'")
 
-
 exit()
