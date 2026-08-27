@@ -1,7 +1,6 @@
 # Opdracht 1
 # Naam student: Vladyslav Kuchuk   
-# Groep: 4ITX1
-
+# Groep: 4ITX7
 # Hier komt je code...
 
 my_dictionary = {"naam": "willem", "achternaam": "van der broek", "leeftijd": 23, "favoriete kleur": "blauw"}

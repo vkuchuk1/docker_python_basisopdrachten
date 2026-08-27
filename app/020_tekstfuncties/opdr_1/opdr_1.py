@@ -1,6 +1,6 @@
 # Opdracht 1
 # Naam student: Vladyslav Kuchuk   
-# Groep: 4ITX1
+# Groep: 4ITX7
 
 # Hier komt je code...
 
@@ -15,5 +15,3 @@ print("O mamma mia, wat maak je toch heerlijke pizza's")
 voornaam = "albert"
 achternaam = "einstein"
 print(f"{voornaam.title()} {achternaam.title()} zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'")
-
-exit()
