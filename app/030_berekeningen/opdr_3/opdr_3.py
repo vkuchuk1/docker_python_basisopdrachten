@@ -4,14 +4,6 @@
 
 # Hier komt je code...
 import math
-x = 1
-y = (4*(x**3)) - (2*(x**2)) + 1
-print("De uitkomst is:", y)
-
-x = 2
-y = (4*(x**3)) - (2*(x**2)) + 1
-print("De uitkomst is:", y)
-
-x = 0
+x = int(input("x = "))
 y = (4*(x**3)) - (2*(x**2)) + 1
 print("De uitkomst is:", y)
