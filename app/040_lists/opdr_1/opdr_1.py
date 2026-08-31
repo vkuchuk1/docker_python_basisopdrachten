@@ -1,6 +1,6 @@
 # Opdracht 1 lists
 # Naam student:
-# Groep:
+# Groep: 4ITX7
 
 dict_1 = {"id": 0, "naam": "Alice", "achternaam": "Smith"}
 dict_2 = {"id": 1, "naam": "Bob", "achternaam": "Johnson",}

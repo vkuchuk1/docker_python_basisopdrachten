@@ -1,6 +1,6 @@
 # Opdracht 3 tekstfuncties
 # Naam student:
-# Groep:
+# Groep: 4ITX7
 
 # Hier komt je code...
 import math

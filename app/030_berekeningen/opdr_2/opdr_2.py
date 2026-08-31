@@ -1,6 +1,6 @@
 # Opdracht 2 berekeningen
 # Naam student:
-# Groep:
+# Groep: 4ITX7
 
 # Hier komt je code...
 try:
