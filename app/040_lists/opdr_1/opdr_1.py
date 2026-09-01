@@ -9,6 +9,6 @@ dict_4 = {"id": 3, "naam": "Diana", "achternaam": "Brown",}
 
 mylist = [dict_1, dict_2, dict_3, dict_4]
 
-id = int(input("Vul ID in: "))
+id = int(input("Voer een id in (0-3): "))
 
-print(mylist[id])
+print(mylist[id]["naam"] + " " + mylist[id]["achternaam"])
