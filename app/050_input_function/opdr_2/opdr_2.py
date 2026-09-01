@@ -4,4 +4,19 @@
 
 # Hier komt je code...
 
-gasten = ["Jij", ... ]
+gasten = ["Vlady", "Paul", "Kees", "Marie", "Hilda"]
+for names in gasten:
+    print(names)
+input("Druk op enter om verder te gaan...")
+
+gasten.remove("Marie")
+for names in gasten:
+    print(names)
+input("Druk op enter om verder te gaan...")
+
+gasten.insert(3, "George")
+for names in gasten:
+    print(names)
+input("Druk op enter om verder te gaan...")
+
+exit
