@@ -4,3 +4,8 @@
 
 # Hier komt je code...
 
+steden = input("Geef de namen van een steden: ").split(", ")
+
+steden.sort(reverse=True)
+
+print(", ".join(steden))
