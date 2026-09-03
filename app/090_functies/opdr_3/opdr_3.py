@@ -4,17 +4,15 @@
 
 
 def kubus_vol(m):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+    kubus = m * m * m
+    return kubus
 
 def bol_vol(r):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+    bol = (4/3) * 3.14159 * (r ** 3)
+    return bol
 
 zijde = 5
 radius = 4
 
-print(kubus_vol(5))
-print(bol_vol(4))
+print(f"De inhoud van de kubus is {kubus_vol(zijde)} cm³")
+print(f"De inhoud van de bol is {bol_vol(radius)} cm³")
