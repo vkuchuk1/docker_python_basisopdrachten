@@ -6,7 +6,15 @@
 
 # Hier start de for-loop....
 
-my_list = []
+import numbers
 
-#for loop
-#if statement
+
+my_list = []
+cijfer = 1
+while True:
+    getal = int(input("Voer een getal in: "))
+    my_list += [getal]
+    cijfer += 1
+    if cijfer == 11 and 4 in my_list:
+        start_index = my_list.index(4)
+        print(my_list[start_index:])
