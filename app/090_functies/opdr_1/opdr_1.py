@@ -3,11 +3,10 @@
 # Groep: 4ITX7
 
 
-def write_to_file(afile, atext):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+def write_to_file(my_file, my_tekst):
+    with open(my_file, "a") as file:
+        file.write(my_tekst + "\n")
 
 my_tekst = "Schrijf dit maar even in een bestandje"
-my_file = "test.txt"
+my_file = "opdr0901.txt"
 write_to_file(my_file, my_tekst)
