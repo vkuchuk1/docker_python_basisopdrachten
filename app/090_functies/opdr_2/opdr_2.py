@@ -3,18 +3,16 @@
 # Groep: 4ITX7
 
 
-def kilometers_naar_miles(km):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+def kilometers_naar_miles(kilometers):
+    miles = kilometers * 0.621371
+    return miles
 
 def miles_naar_kilometers(miles):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+    kilometers = miles / 0.621371
+    return kilometers
 
 kilometers = 1223
 miles = 867
 
-print(kilometers_naar_miles(kilometers))
-print(miles_naar_kilometers(miles))
+print(f"{kilometers} kilometers is {kilometers_naar_miles(kilometers)} miles")
+print(f"{miles} miles is {miles_naar_kilometers(miles)} kilometers")
