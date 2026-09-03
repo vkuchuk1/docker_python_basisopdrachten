@@ -1,6 +1,6 @@
 # Opdracht 1 while-loops
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 # Jouw code komt hier
 

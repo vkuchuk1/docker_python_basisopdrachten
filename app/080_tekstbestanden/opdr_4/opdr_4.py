@@ -1,6 +1,6 @@
 # Opdracht 4 Tekst opslaan
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 
 gegevens = {"voornaam": (), "achternaam": (), "drank": (), "eten": ()}

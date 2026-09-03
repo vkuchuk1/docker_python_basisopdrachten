@@ -1,6 +1,6 @@
 # Opdracht 2 condities
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 # Hier komt je code...
 

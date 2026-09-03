@@ -1,6 +1,6 @@
 # Opdracht 2 tekstbestanden
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 import random
 prompt = "Raad mijn geheime getal \n"

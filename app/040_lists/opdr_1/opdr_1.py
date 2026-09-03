@@ -1,5 +1,5 @@
 # Opdracht 1 lists
-# Naam student:
+# Naam student: Vladyslav Kuchuk
 # Groep: 4ITX7
 
 dict_1 = {"id": 0, "naam": "Alice", "achternaam": "Smith"}

@@ -1,6 +1,6 @@
 # Opdracht 1 input function
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 # Hier komt je code, maak gebruik van de input functie om de lengte van de rechthoekzijden van de driehoek op te vragen.
 a = int(input("Geef de lengte van eerste zijde: "))

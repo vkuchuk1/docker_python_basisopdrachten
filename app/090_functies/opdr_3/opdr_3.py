@@ -1,6 +1,6 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 
 def kubus_vol(m):

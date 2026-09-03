@@ -1,6 +1,6 @@
 # Opdracht 3 Tekst opslaan
-# Naam student:
-# Groep:
+# Naam student: Vladyslav Kuchuk
+# Groep: 4ITX7
 
 
 

@@ -1,5 +1,5 @@
 # Opdracht 2 lists
-# Naam student:
+# Naam student: Vladyslav Kuchuk
 # Groep: 4ITX7
 
 
