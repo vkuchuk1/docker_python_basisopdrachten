@@ -1,0 +1,16 @@
+Voornaam: C:\Users\1kuch\AppData\Local\Programs\Python\Python314\python.exe c:/Everything/College/Informatievoerziningen/docker_python_basisopdrachten/app/080_tekstbestanden/opdr_4/opdr_4.py
+Achternaam: C:\Users\1kuch\AppData\Local\Programs\Python\Python314\python.exe c:/Everything/College/Informatievoerziningen/docker_python_basisopdrachten/app/080_tekstbestanden/opdr_4/opdr_4.py
+Drank: C:\Users\1kuch\AppData\Local\Programs\Python\Python314\python.exe c:/Everything/College/Informatievoerziningen/docker_python_basisopdrachten/app/080_tekstbestanden/opdr_4/opdr_4.py
+Eten: C:\Users\1kuch\AppData\Local\Programs\Python\Python314\python.exe c:/Everything/College/Informatievoerziningen/docker_python_basisopdrachten/app/080_tekstbestanden/opdr_4/opdr_4.py
+Voornaam: Vlady
+Achternaam: Kuchuk
+Drank: Pivo
+Eten: Pizza
+Voornaam: df
+Achternaam: df
+Drank: df
+Eten: df
+Voornaam: fff
+Achternaam: fff
+Drank: ff
+Eten: ff
